@@ -1,0 +1,12 @@
+{
+  "name": "crud_firestore",
+  "displayName": "crud_firestore",
+  "expo": {
+    "name": "crud_firestore",
+    "slug": "crud_firestore",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

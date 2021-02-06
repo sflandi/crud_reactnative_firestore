@@ -14,13 +14,13 @@ import firestore from 'firebase/firestore'
 // };
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCRZ8x1ghmpXWMnve9I32ic050E_1mglL4",
-    authDomain: "reactnativecrud-cb246.firebaseapp.com",
-    databaseURL: "https://reactnativecrud-cb246.firebaseio.com",
-    projectId: "reactnativecrud-cb246",
-    storageBucket: "reactnativecrud-cb246.appspot.com",
-    messagingSenderId: "111931196764",
-    appId: "1:111931196764:android:5ce890a033618263ea6d99"
+    apiKey: "AIzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    authDomain: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.firebaseapp.com",
+    databaseURL: "https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.firebaseio.com",
+    projectId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    storageBucket: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.appspot.com",
+    messagingSenderId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    appId: "1:11xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 };
 
 firebase.initializeApp(firebaseConfig);

@@ -2,11 +2,12 @@
   "name": "crud_firestore",
   "displayName": "crud_firestore",
   "expo": {
-    "name": "crud_firestore",
-    "slug": "crud_firestore",
+    "name": "crud_firestore_andi",
+    "slug": "crud_firestore_andi",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "CRUD React Native BNSP"
   }
 }

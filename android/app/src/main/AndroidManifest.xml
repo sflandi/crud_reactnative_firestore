@@ -31,7 +31,7 @@
   >
     <meta-data android:name="expo.modules.updates.EXPO_UPDATE_URL" android:value="https://exp.host/@andisfl/crud_firestore_andi" />
     <meta-data android:name="expo.modules.updates.EXPO_SDK_VERSION" android:value="40.0.0" />
-    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAt6JF4Sl9gSzzf69YvehNtCC7SIyR3Frs"/> <!-- tambahan untuk react native google maps API-->
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaxxxxxxxxxxxxxxxxxxxxxxxxxx"/> <!-- tambahan untuk react native google maps API-->
     <uses-library android:name="org.apache.http.legacy" android:required="false"/> <!-- tambahan untuk react native google maps API-->
     <meta-data android:name="expo.modules.updates.EXPO_RELEASE_CHANNEL" android:value="default" />
 
